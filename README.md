@@ -1,1 +1,1 @@
-# z12_component
+M3_inventoryhud için silah eklentileri
